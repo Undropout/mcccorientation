@@ -1,0 +1,332 @@
+[
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "soft",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "West Windsor Campus",
+    "displayTitle": "West Windsor Campus",
+    "body": "",
+    "_id": "5f8918ed23a0003b004812d2",
+    "_parentId": "5f8918de23a0003b004812d1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Click on each flag to learn about that building",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/bc95f3ef7db4dea33e6e99c9b8385a21ce82dec4.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_useNumberedPins": false,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "MW",
+        "_ariaLevel": 0,
+        "body": "<p>Building \"MW\" - The Maintenance Building</p><p>Maintaining 292 wood-lined acres is a big job, and if you enjoy our beautiful campus, this is where you'll find the people who keep it that way!</p>",
+        "strapline": "MW: The Maintenance Building",
+        "_graphic": {
+          "src": "course/en/assets/4210a4da90cce63a75b9e91d72cebd6cfeb7d5f4.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 23,
+        "_top": 11
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Building \"PE\" - the Physical Education (Fitness Center)<br /><br />The MCCC Fitness Center offers the community numerous ways to get in shape and stay in shape. The center includes a fully-equipped fitness facility and an Olympic size swimming pool, located in the Physical Education (<a href=\"https://www.mccc.edu/welcome_directions_wwcampusmap.shtml\">PE</a>) Building on MCCC's West Windsor campus. Tennis courts are located adjacent to the PE Building. Members may also participate in weekly exercise classes. Rates are more reasonable than at most area gyms and there are numerous membership options.</p>",
+        "strapline": "PE: Physical Education (Fitness Center) Building",
+        "_graphic": {
+          "src": "course/en/assets/04a892314da6b074c6f164114444c763b98e79f3.jpg",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 44,
+        "_top": 8
+      },
+      {
+        "title": "Administrative Building",
+        "_ariaLevel": 0,
+        "body": "<p>This is the Richard K. Greenfield<br />Administration building. Here you'll find assistance with</p><ul><li>Course Registration</li><li>Admission Application</li><li>Financial Aid</li><li>Payment Plan or Tuition Payment</li><li>Changing Program Major</li><li>Demographic Changes</li><li>Ordering Transcripts</li><li>Transfer Services: Your first important step toward earning your bachelor's degree</li><li>Career Services: Explore the available programs that lead to the career you want</li><li>Military and Veterans Services</li><li>International Student Services</li></ul>",
+        "strapline": "Administrative Services",
+        "_graphic": {
+          "src": "course/en/assets/1bcddcfa3dc55c1766a5f47ce4e46932480b6e29.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 51,
+        "_top": 50
+      }
+    ]
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 1:",
+    "displayTitle": "Question 1:",
+    "body": "<p>Which building keeps all the other buildings looking</p><p>F R E S H ?<br />R<br />E<br />S<br />H<br />?</p>",
+    "_id": "5f892b2723a0003b004812e3",
+    "_parentId": "5f892b1323a0003b004812e2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Choose the correct answer:",
+    "_items": [
+      {
+        "text": "The Maintenance Building",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "The Administration Building",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The NJ Transit Bus Stop",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The Liberal Arts Building",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>You're correct! It's the crews in the Maintenance Building.</p>",
+      "_incorrect": {
+        "final": "<p>... you're about as lost as M.C. Ceecee was.</p><p>Go back and read the info on the map exercise.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 2:",
+    "displayTitle": "Question 2:",
+    "body": "<p>Let's test your ability to remember abbreviations.</p><p>This is a critical skill for navigating between classrooms at MCCC.</p><p>PE stands for:</p>",
+    "_id": "5f892b4023a0003b004812e6",
+    "_parentId": "5f892b3a23a0003b004812e5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Finish the sentence.",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "AD",
+        "_options": [
+          {
+            "text": "Administrative",
+            "_isCorrect": false
+          },
+          {
+            "text": "Maintenance",
+            "_isCorrect": false
+          },
+          {
+            "text": "Physical Education",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p>You're astonishingly correct! Well done.</p>",
+      "_incorrect": {
+        "final": "<p>I'm sorry... that is not at all what PE stands for. Try again.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction:",
+    "displayTitle": "Introduction:",
+    "body": "",
+    "_id": "5f89423223a0003b004812e9",
+    "_parentId": "5f89416d23a0003b004812e8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Please watch this short (<2 minutes) video",
+    "_media": {
+      "mp4": "course/en/assets/aa8bff76ac607eb623792dc7413667875cf25e3c.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "ended",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "100%",
+    "_allowFullScreen": true,
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  }
+]
