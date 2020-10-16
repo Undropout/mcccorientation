@@ -20,5 +20,8 @@
     "_shouldSupportLegacyBrowsers": true,
     "_isTextProcessorEnabled": false
   },
-  "__v": 0
+  "__v": 0,
+  "_trickle": {
+    "_completionAttribute": "_isComplete"
+  }
 }

@@ -6,7 +6,7 @@
   "description": "MCCC Thing",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 4,
+  "_latestTrackingId": 5,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -113,6 +113,11 @@
     "_menu": {
       "_boxMenu": {
         "durationLabel": "Duration:"
+      }
+    },
+    "_extensions": {
+      "_trickle": {
+        "incompleteContent": "There is incomplete content above. You must complete this before you can proceed through the course."
       }
     }
   },

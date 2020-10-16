@@ -221,10 +221,10 @@
     "placeholder": "Please select an option",
     "_items": [
       {
-        "text": "AD",
+        "text": "Choices:",
         "_options": [
           {
-            "text": "Administrative",
+            "text": "Primary Education",
             "_isCorrect": false
           },
           {
@@ -234,6 +234,10 @@
           {
             "text": "Physical Education",
             "_isCorrect": true
+          },
+          {
+            "text": "Penguin Entertainment",
+            "_isCorrect": false
           }
         ]
       }
@@ -328,5 +332,35 @@
       "transcriptLink": ""
     },
     "_playerOptions": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Congratulations!",
+    "displayTitle": "Congratulations!",
+    "body": "",
+    "_id": "5f89b36823a0003b004812f5",
+    "_parentId": "5f89b33923a0003b004812f4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/17f7d956bdb47d6e8f0098092561327c8939345f.gif",
+      "small": "course/en/assets/17f7d956bdb47d6e8f0098092561327c8939345f.gif",
+      "attribution": ""
+    }
   }
 ]
