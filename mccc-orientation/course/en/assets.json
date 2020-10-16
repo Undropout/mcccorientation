@@ -9,21 +9,6 @@
     "description": "flag pin",
     "tags": []
   },
-  "4210a4da90cce63a75b9e91d72cebd6cfeb7d5f4.png": {
-    "title": "MW.png",
-    "description": "MW bldg exterior\r\n",
-    "tags": []
-  },
-  "04a892314da6b074c6f164114444c763b98e79f3.jpg": {
-    "title": "pool.jpg",
-    "description": "PE pool",
-    "tags": []
-  },
-  "1bcddcfa3dc55c1766a5f47ce4e46932480b6e29.png": {
-    "title": "AD.png",
-    "description": "admin\r\n",
-    "tags": []
-  },
   "aa8bff76ac607eb623792dc7413667875cf25e3c.mp4": {
     "title": "MCCCvideointro.mp4",
     "description": "final;\r\n",
@@ -32,6 +17,21 @@
   "17f7d956bdb47d6e8f0098092561327c8939345f.gif": {
     "title": "MCCatHappy.gif",
     "description": "all done good",
+    "tags": []
+  },
+  "365a256b3ce1420a864221a5e37bf9733919a24f.png": {
+    "title": "MW2.png",
+    "description": "mw2\r\n",
+    "tags": []
+  },
+  "1bc9b1ef0de4d7502367facddcead9c3320c2a85.gif": {
+    "title": "pool.gif",
+    "description": "Pool",
+    "tags": []
+  },
+  "89fa3dcc72d7e58a0a3f961bc7977398fa3573cb.gif": {
+    "title": "ad2.gif",
+    "description": "Administrative Services Building",
     "tags": []
   }
 }
